@@ -10,6 +10,7 @@ A Streamlit dashboard for analyzing UPI transactions. Includes clustering, anoma
 - Downloadable filtered and suspicious transactions
 
 ## Installation
-1. Clone the repo:
+
+1. **Clone the repository**
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/jeevitha17234/UPI-data-clustering-and-anomaly-Detection.git
